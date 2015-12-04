@@ -322,7 +322,7 @@
 
 ###消息推送
 
-采用https://leancloud.cn/的推送服务，把sdk集成进app中
+采用 https://leancloud.cn/ 的推送服务，把sdk集成进app中
 
 ###地图
 
